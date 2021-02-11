@@ -51,7 +51,7 @@
             "requireIfFieldValue": null,
             "requireIfVisible": false,
             "required": false,
-            "sequence": 3,
+            "sequence": 0,
             "showIfField": null,
             "showIfFieldValue": null,
             "sysId": "f10ddec7d32443a0ae4b47d344d7c992"
@@ -84,7 +84,7 @@
             "requireIfFieldValue": null,
             "requireIfVisible": false,
             "required": true,
-            "sequence": 4,
+            "sequence": 1,
             "showIfField": null,
             "showIfFieldValue": null,
             "sysId": "1f98b582fb1045848e28e4edb4625923"
@@ -152,7 +152,7 @@
             "requireIfFieldValue": null,
             "requireIfVisible": false,
             "required": false,
-            "sequence": 5,
+            "sequence": 2,
             "showIfField": null,
             "showIfFieldValue": null,
             "sysId": "25deffd312be49ad8da1f6d961773138"
@@ -216,7 +216,7 @@
             "requireIfFieldValue": null,
             "requireIfVisible": false,
             "required": false,
-            "sequence": 7,
+            "sequence": 3,
             "showIfField": null,
             "showIfFieldValue": null,
             "sysId": "73c6b3d11e7a42f3859e7946d8d0d521"
@@ -249,7 +249,7 @@
             "requireIfFieldValue": null,
             "requireIfVisible": false,
             "required": false,
-            "sequence": 9,
+            "sequence": 4,
             "showIfField": "Choice Field 3",
             "showIfFieldValue": "start_job_by_taskname",
             "sysId": "4d7eaa5a71d34affb7e97d44a31054a7"
@@ -282,7 +282,7 @@
             "requireIfFieldValue": null,
             "requireIfVisible": false,
             "required": false,
-            "sequence": 10,
+            "sequence": 5,
             "showIfField": null,
             "showIfFieldValue": null,
             "sysId": "356225cc042a4fdd8d895949214dcb44"
@@ -315,7 +315,7 @@
             "requireIfFieldValue": null,
             "requireIfVisible": false,
             "required": false,
-            "sequence": 11,
+            "sequence": 6,
             "showIfField": null,
             "showIfFieldValue": null,
             "sysId": "fc696c7a27214d9b850a14c4ceed2d7d"
@@ -348,7 +348,7 @@
             "requireIfFieldValue": null,
             "requireIfVisible": false,
             "required": false,
-            "sequence": 12,
+            "sequence": 7,
             "showIfField": null,
             "showIfFieldValue": null,
             "sysId": "67d09cfd68fa46468848837425a5dc67"
@@ -381,7 +381,7 @@
             "requireIfFieldValue": null,
             "requireIfVisible": false,
             "required": false,
-            "sequence": 13,
+            "sequence": 8,
             "showIfField": null,
             "showIfFieldValue": null,
             "sysId": "83e83a86454a48199286da827b510b42"
@@ -414,7 +414,7 @@
             "requireIfFieldValue": null,
             "requireIfVisible": false,
             "required": false,
-            "sequence": 14,
+            "sequence": 9,
             "showIfField": null,
             "showIfFieldValue": null,
             "sysId": "10e55c16550b4f67a01f7b8c5c0cf98c"
@@ -447,7 +447,7 @@
             "requireIfFieldValue": null,
             "requireIfVisible": false,
             "required": false,
-            "sequence": 15,
+            "sequence": 10,
             "showIfField": null,
             "showIfFieldValue": null,
             "sysId": "ddc92332100b460e9b2c6cdaa12959cb"
