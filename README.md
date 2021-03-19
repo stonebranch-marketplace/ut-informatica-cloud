@@ -6,6 +6,10 @@
 <p data-renderer-start-pos="1544">The Universal Task for Informatica allows to schedule Data Integration Tasks including Linear Taskflow in the Informatica Cloud.</p>
 <p data-renderer-start-pos="1675">All communication is Web-Service based using the latest Informatica REST API version 2 &amp; 3 with support for folders.</p>
 <p data-renderer-start-pos="1794">Log-files including activity-, session- and error log are available from the Universal Controller Web UI in the same way as from the Informatica Monitoring Console.</p>
+<p>&nbsp;</p>
+Please visit this link to find key features, prerequisites, installation instructions, configuration instructions, and examples of how to use this integration. 
+<a href="https://docs.stonebranch.com/confluence/display/UC69/UAC+-+Informatica+Cloud">UAC - Informatica Cloud</a>.&nbsp;</li>
+
 
 
 
